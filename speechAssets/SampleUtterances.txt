@@ -1,0 +1,20 @@
+GetNextBusIntent function(intent, session, response){
+GetNextBusIntent function(intent, session, response){
+GetNextBusIntent  what is your {stopNumber}
+GetNextBusIntent  what is your {busNumber}
+GetNextBusIntent  what is your {stopNumber} and {busNumber}
+GetNextBusIntent what is your {stopNumber} and what is your {busNumber}
+GetNextBusIntent  what’s your {stopNumber} and your {busNumber}
+GetNextBusIntent my stop number is {stopNumber}
+GetNextBusIntent  my bus number is {busNumber}
+GetNextBusIntent  my stop number is {stopNumber} and my bus number is {busNumber}
+GetNextBusIntent stop number {stopNumber} bus number {busNumber}
+GetNextBusIntent  {stopNumber} {busNumber}
+GetNextBusIntent bus number {busNumber} and stop number {stopNumber}
+GetNextBusIntent  the bus number I’m looking up information for is {busNumber}
+
+HelpIntent help
+HelpIntent what commands can I ask
+HelpIntent how do I use you
+HelpIntent how do I find a bus
+HelpIntent what questions can I ask

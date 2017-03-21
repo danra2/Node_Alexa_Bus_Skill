@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "GetNextBusIntent",
+      "slots": [
+      {
+        "name" : "stopNumber",
+        "type": "AMAZON.NUMBER"
+      },
+      {
+         "name" : "busNumber",
+        "type": "AMAZON.NUMBER"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
